@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">TestApp</string>
+    <string name="true_message">TRUE,DUDE</string>
+    <string name="false_message">RETARD!!!</string>
 </resources>
